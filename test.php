@@ -1,1 +1,3 @@
-hello mf dok
+<?php
+echo "hello from test";
+?>
